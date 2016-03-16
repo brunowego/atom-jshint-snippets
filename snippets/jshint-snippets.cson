@@ -1,0 +1,94 @@
+".source.js":
+  "JSHint: asi":
+    prefix: "asi"
+    body: "/* jshint asi: ${1:true} */"
+  "JSHint: boss":
+    prefix: "boss"
+    body: "/* jshint boss: ${1:true} */"
+  "JSHint: debug":
+    prefix: "debug"
+    body: "/* jshint debug: ${1:true} */"
+  "JSHint: eqnull":
+    prefix: "eqnull"
+    body: "/* jshint eqnull: ${1:true} */"
+  "JSHint: evil":
+    prefix: "evil"
+    body: "/* jshint evil: ${1:true} */"
+  "JSHint: expr":
+    prefix: "expr"
+    body: "/* jshint expr: ${1:true} */"
+  "JSHint: laxcomma":
+    prefix: "laxcomma"
+    body: "/* jshint laxcomma: ${1:true} */"
+  "JSHint: loopfunc":
+    prefix: "loopfunc"
+    body: "/* jshint loopfunc: ${1:true} */"
+  "JSHint: sub":
+    prefix: "sub"
+    body: "/* jshint sub: ${1:true} */"
+  "JSHint: curly":
+    prefix: "curly"
+    body: "/* jshint curly: ${1:true} */"
+  "JSHint: eqeqeq":
+    prefix: "eqeqeq"
+    body: "/* jshint eqeqeq: ${1:true} */"
+  "JSHint: es3":
+    prefix: "es3"
+    body: "/* jshint es3: ${1:true} */"
+  "JSHint: forin":
+    prefix: "forin"
+    body: "/* jshint forin: ${1:true} */"
+  "JSHint: freeze":
+    prefix: "freeze"
+    body: "/* jshint freeze: ${1:true} */"
+  "JSHint: indent":
+    prefix: "indent"
+    body: "/* jshint indent: ${1:4} */"
+  "JSHint: quotmark":
+    prefix: "quotmark"
+    body: "/* jshint quotmark: ${1:single|double} */"
+  "JSHint: strict":
+    prefix: "strict"
+    body: "/* jshint strict: ${1:true} */"
+  "JSHint: white":
+    prefix: "white"
+    body: "/* jshint white: ${1:true}, indent: ${1:4} */"
+  "JSHint: maxdepth":
+    prefix: "maxdepth"
+    body: "/* jshint maxdepth: ${1:2} */"
+  "JSHint: maxlen":
+    prefix: "maxlen"
+    body: "/* jshint maxlen: ${1:80} */"
+  "JSHint: ignore":
+    prefix: "ignore"
+    body: "/* jshint ignore: ${1:start|end} */"
+  "JSHint: undef":
+    prefix: "undef"
+    body: "/* jshint undef: ${1:true} */"
+  "JSHint: global":
+    prefix: "global"
+    body: "/* global ${1:jQuery} */"
+  "JSHint: devel":
+    prefix: "devel"
+    body: "/* jshint devel: ${1:true} */"
+  "JSHint: browser":
+    prefix: "browser"
+    body: "/* jshint browser: ${1:true} */"
+  "JSHint: node":
+    prefix: "node"
+    body: "/* jshint node: ${1:true} */"
+  "JSHint: jquery":
+    prefix: "jquery"
+    body: "/* jshint jquery: ${1:true} */"
+  "JSHint: validthis":
+    prefix: "validthis"
+    body: "/* jshint validthis: ${1:true} */"
+  "JSHint: maxcomplexity":
+    prefix: "maxcomplexity"
+    body: "/* jshint maxcomplexity: ${1:false} */"
+  "JSHint: maxparams":
+    prefix: "maxparams"
+    body: "/* jshint maxparams: ${1:false} */"
+  "JSHint: maxstatements":
+    prefix: "maxstatements"
+    body: "/* jshint maxstatements: ${1:false} */"
