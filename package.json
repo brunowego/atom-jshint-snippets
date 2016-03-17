@@ -3,6 +3,11 @@
   "main": "./lib/jshint-snippets",
   "version": "0.1.0",
   "description": "A collection of JSHint snippets for Atom Editor.",
+  "keywords": [
+    "javascript",
+    "jshint",
+    "snippets"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
