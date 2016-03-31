@@ -1,94 +1,94 @@
 ".source.js":
   "JSHint: asi":
-    prefix: "asi"
+    prefix: "jshint:asi"
     body: "/* jshint asi: ${1:true} */"
   "JSHint: boss":
-    prefix: "boss"
+    prefix: "jshint:boss"
     body: "/* jshint boss: ${1:true} */"
   "JSHint: debug":
-    prefix: "debug"
+    prefix: "jshint:debug"
     body: "/* jshint debug: ${1:true} */"
   "JSHint: eqnull":
-    prefix: "eqnull"
+    prefix: "jshint:eqnull"
     body: "/* jshint eqnull: ${1:true} */"
   "JSHint: evil":
-    prefix: "evil"
+    prefix: "jshint:evil"
     body: "/* jshint evil: ${1:true} */"
   "JSHint: expr":
-    prefix: "expr"
+    prefix: "jshint:expr"
     body: "/* jshint expr: ${1:true} */"
   "JSHint: laxcomma":
-    prefix: "laxcomma"
+    prefix: "jshint:laxcomma"
     body: "/* jshint laxcomma: ${1:true} */"
   "JSHint: loopfunc":
-    prefix: "loopfunc"
+    prefix: "jshint:loopfunc"
     body: "/* jshint loopfunc: ${1:true} */"
   "JSHint: sub":
-    prefix: "sub"
+    prefix: "jshint:sub"
     body: "/* jshint sub: ${1:true} */"
   "JSHint: curly":
-    prefix: "curly"
+    prefix: "jshint:curly"
     body: "/* jshint curly: ${1:true} */"
   "JSHint: eqeqeq":
-    prefix: "eqeqeq"
+    prefix: "jshint:eqeqeq"
     body: "/* jshint eqeqeq: ${1:true} */"
   "JSHint: es3":
-    prefix: "es3"
+    prefix: "jshint:es3"
     body: "/* jshint es3: ${1:true} */"
   "JSHint: forin":
-    prefix: "forin"
+    prefix: "jshint:forin"
     body: "/* jshint forin: ${1:true} */"
   "JSHint: freeze":
-    prefix: "freeze"
+    prefix: "jshint:freeze"
     body: "/* jshint freeze: ${1:true} */"
   "JSHint: indent":
-    prefix: "indent"
+    prefix: "jshint:indent"
     body: "/* jshint indent: ${1:4} */"
   "JSHint: quotmark":
-    prefix: "quotmark"
+    prefix: "jshint:quotmark"
     body: "/* jshint quotmark: ${1:single|double} */"
   "JSHint: strict":
-    prefix: "strict"
+    prefix: "jshint:strict"
     body: "/* jshint strict: ${1:true} */"
   "JSHint: white":
-    prefix: "white"
+    prefix: "jshint:white"
     body: "/* jshint white: ${1:true}, indent: ${1:4} */"
   "JSHint: maxdepth":
-    prefix: "maxdepth"
+    prefix: "jshint:maxdepth"
     body: "/* jshint maxdepth: ${1:2} */"
   "JSHint: maxlen":
-    prefix: "maxlen"
+    prefix: "jshint:maxlen"
     body: "/* jshint maxlen: ${1:80} */"
   "JSHint: ignore":
-    prefix: "ignore"
+    prefix: "jshint:ignore"
     body: "/* jshint ignore: ${1:start|end} */"
   "JSHint: undef":
-    prefix: "undef"
+    prefix: "jshint:undef"
     body: "/* jshint undef: ${1:true} */"
   "JSHint: global":
-    prefix: "global"
+    prefix: "jshint:global"
     body: "/* global ${1:jQuery} */"
   "JSHint: devel":
-    prefix: "devel"
+    prefix: "jshint:devel"
     body: "/* jshint devel: ${1:true} */"
   "JSHint: browser":
-    prefix: "browser"
+    prefix: "jshint:browser"
     body: "/* jshint browser: ${1:true} */"
   "JSHint: node":
-    prefix: "node"
+    prefix: "jshint:node"
     body: "/* jshint node: ${1:true} */"
   "JSHint: jquery":
-    prefix: "jquery"
+    prefix: "jshint:jquery"
     body: "/* jshint jquery: ${1:true} */"
   "JSHint: validthis":
-    prefix: "validthis"
+    prefix: "jshint:validthis"
     body: "/* jshint validthis: ${1:true} */"
   "JSHint: maxcomplexity":
-    prefix: "maxcomplexity"
+    prefix: "jshint:maxcomplexity"
     body: "/* jshint maxcomplexity: ${1:false} */"
   "JSHint: maxparams":
-    prefix: "maxparams"
+    prefix: "jshint:maxparams"
     body: "/* jshint maxparams: ${1:false} */"
   "JSHint: maxstatements":
-    prefix: "maxstatements"
+    prefix: "jshint:maxstatements"
     body: "/* jshint maxstatements: ${1:false} */"
