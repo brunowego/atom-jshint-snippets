@@ -92,3 +92,6 @@
   "JSHint: maxstatements":
     prefix: "jshint:maxstatements"
     body: "/* jshint maxstatements: ${1:false} */"
+  "JSHint: immed":
+    prefix: "jshint:maxstatements"
+    body: "/* jshint immed: ${1:true} */"
