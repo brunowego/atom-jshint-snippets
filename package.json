@@ -1,7 +1,7 @@
 {
   "name": "jshint-snippets",
   "main": "./lib/jshint-snippets",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A collection of JSHint snippets for Atom Editor.",
   "keywords": [
     "javascript",
