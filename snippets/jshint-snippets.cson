@@ -93,7 +93,7 @@
     prefix: "jshint-maxstatements"
     body: "/* jshint maxstatements: ${1:false} */"
   "JSHint: immed":
-    prefix: "jshint-maxstatements"
+    prefix: "jshint-immed"
     body: "/* jshint immed: ${1:true} */"
   "JSHint: plusplus":
     prefix: "jshint-plusplus"
